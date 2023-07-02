@@ -1,0 +1,1 @@
+Promises, in simple words, are objects in JavaScript that represent the eventual completion or failure of an asynchronous operation.
